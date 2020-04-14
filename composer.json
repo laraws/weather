@@ -18,5 +18,12 @@
         "psr-4": {
             "Laraws\\Weather\\": "src"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Laraws\\Weather\\ServiceProvider"
+            ]
+        }
     }
 }
