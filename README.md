@@ -4,7 +4,7 @@
 <p align="center">:rainbow: 基于高德开放平台的 PHP 天气信息组件。</p>
 
 [![Build Status](https://travis-ci.org/overtrue/weather.svg?branch=master)](https://travis-ci.org/overtrue/weather) 
-![test](https://github.com/laraws/weather/workflows/PHP%20Composer/badge.svg)
+![CI](https://github.com/laraws/weather/workflows/CI/badge.svg)
 
 ## 安装
 
